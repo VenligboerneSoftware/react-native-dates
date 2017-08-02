@@ -28,7 +28,7 @@
 	"homepage": "https://github.com/werein/react-native-dates#readme",
 	"dependencies": {
 		"moment": "^2.17.1",
-		"moment-range": "git+https://github.com/gf3/moment-range.git"
+		"moment-range": "git+https://github.com/rotaready/moment-range.git"
 	},
 	"peerDependencies": {
 		"react": "^15.3.2",
